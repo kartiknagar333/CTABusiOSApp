@@ -20,7 +20,13 @@ An iOS application written in Swift that lets you browse Chicago Transit Authori
 
 - **Foundation → JSONDecoder & Codable**  
   JSON parsing into Swift model structs.
-  
+
+## Setup
+- Obtain an API key from [CTA Bus](https://www.ctabustracker.com/account)  Tracker.
+- Chanage with Your API KEY with APIKEY word in the files.
+
+
+## ScreenShots
 - **HomeScreen [Routes]**
 <div align="center">
   <img src="https://github.com/user-attachments/assets/1046f5a6-7043-4c43-8f0f-3efc9c84c0d8" alt="Home" width="380" height="720" />
